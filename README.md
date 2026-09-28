@@ -80,6 +80,22 @@ This repository follows a structured Git workflow:
 *   Modular, readable code
 *   Security-first approach
 
+# landing page color code 
+    --background: #000000;
+    --foreground: #ffffff;
+    --primary: #d4af37;
+    --primary-light: #fee08b;
+    --accent: #d4af37;
+    --accent-dark: #b8860b;
+    --glass: rgba(10, 10, 10, .4);
+    --glass-border: rgba(255, 255, 255, .08);
+    --gold-glow: rgba(212, 175, 55, .25);
+    --cinematic-tracking: .5em;
+    --font-heading: "Orbitron", sans-serif;
+    --font-body: "Space Grotesk", sans-serif;
+    --font-mono: "JetBrains Mono", monospace
+this is the whole website color codes
+
 ## 📄 License & Usage
 This project is proprietary and confidential. All rights reserved by ENDURA and its authorized development partners.
 Unauthorized copying, distribution, or reuse is strictly prohibited.
